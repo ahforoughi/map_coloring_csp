@@ -8,3 +8,5 @@ To run this code clone this repo and execute below command in terminal or cmd:
 ```
 python3 map_coloring_csp.py
 ```
+
+To read more about CSP algorithms read the document `main.pdf`
